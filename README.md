@@ -1,5 +1,14 @@
-Definicion: enunciado con rango de 1-3999
-llamado de funcion como: 3494.to_roman => 'MMMCDXCIV'
-si esta fuera de rango pimprimir 'out of range'
+# Roman Numbers
 
-ejecutar pruebas con comando `rspec`
+### Requirement
+Given an integer number between ```1``` and ```3999```, return the _roman number representation_ of it.
+
+In order to accomplish this, please complete the necessary code in the file ```src/roman_numbers.rb```.
+
+#### Example
+```3494.to_roman``` => ```'MMMCDXCIV'```
+
+```4000.to_roman``` => ```'out of range'```
+
+### Tests
+Please execute tests with the command ```rspec```
