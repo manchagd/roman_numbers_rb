@@ -13,4 +13,4 @@ Please consider handling properly the numbers that are out of range. We don't li
 ```4000.to_roman``` => ```'out of range'```
 
 ### Tests
-Please execute tests with the command ```rspec```
+Please execute tests with the command ```rspec```.
