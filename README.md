@@ -5,6 +5,8 @@ Given an integer number between ```1``` and ```3999```, return the _roman number
 
 In order to accomplish this, please complete the necessary code in the file ```src/roman_numbers.rb```.
 
+Please consider handling properly the number that are out of range. We don't like exceptions ;)
+
 #### Example
 ```3494.to_roman``` => ```'MMMCDXCIV'```
 
